@@ -1,2 +1,19 @@
-# proje-python-opencv
-Python ve OpenCV kütüphanes ile görüntü işleme. Canlı videoda renk tanıma, kenar bulma, nesne tesbiti, vb. konular yapılacak.
+# Özet
+Canlı kamera videosunun işlenmesine çalışılacaktır.
+## Kullanılacak olan araçlar
+### Programlama dili
+Python kullanılacaktır. Sürüm 2 veya 3 olması konusunda henüz karar verilmedi
+### IDE
+IDE'ye karar verince buraya yazalım
+### Kütüphaneler
+En başta, OpenCV tabiiki.
+# Proje kilometre taşları
+1. Literatür taraması, proje bileşenlerinin netleştirilmesi, IDE seçimi, Python sürümüne karar verilmesi, "hello world" kodlarının yazılması
+1. Python içerisinde OpenCV kütüphanesinin kullanımı konusunda çalışmalar yapılması. Özellikle temel video işlemleri yapılması
+1. Kayıtlı videolarda kenar/köşe bulma, çözünürlük değiştirme, histogram çıkarma, renk tanıma, vb. işlemlere çalışılması
+1. Canlı videoda üstteki tarzda çalışmaların yapılması
+1. Nesne tesbiti yapılması
+1. Nesne tanıma yapılması
+
+# Hedeflenen aşama
+Raspberry Pi üzerindeki kameranın görüntülerini canlı olarak işleyen ve GPIO portlarına işaret gönderen sistemin geliştirilmesi.
