@@ -1,11 +1,11 @@
 # Özet
 Canlı kamera videosunun işlenmesine çalışılacaktır.
-## Kullanılacak olan araçlar
-### Programlama dili
+# Kullanılacak olan araçlar
+## Programlama dili
 Python kullanılacaktır. Sürüm 2 veya 3 olması konusunda henüz karar verilmedi
-### IDE
+## IDE
 IDE'ye karar verince buraya yazalım
-### Kütüphaneler
+## Kütüphaneler
 En başta, OpenCV tabiiki.
 # Proje kilometre taşları
 1. Literatür taraması, proje bileşenlerinin netleştirilmesi, IDE seçimi, Python sürümüne karar verilmesi, "hello world" kodlarının yazılması
