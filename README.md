@@ -4,7 +4,7 @@ Canlı kamera videosunun işlenmesine çalışılacaktır.
 ## Programlama dili
 Python 2.7.10 sürümü kullanılacak
 ## IDE
-IDE'ye karar verince buraya yazalım
+PyCharm IDE' si kullanılacak.
 ## Kütüphaneler
 En başta, OpenCV tabiiki.
 # Proje kilometre taşları
