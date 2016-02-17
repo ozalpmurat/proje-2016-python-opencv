@@ -2,7 +2,7 @@
 Canlı kamera videosunun işlenmesine çalışılacaktır.
 # Kullanılacak olan araçlar
 ## Programlama dili
-Python kullanılacaktır. Sürüm 2 veya 3 olması konusunda henüz karar verilmedi
+Python 2.7.10 sürümü kullanılacak
 ## IDE
 IDE'ye karar verince buraya yazalım
 ## Kütüphaneler
